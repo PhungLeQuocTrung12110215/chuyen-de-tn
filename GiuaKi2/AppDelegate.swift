@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  GiuaKi2
 //
-//  Created by Huỳnh Thanh Tuấn on 12/2/16.
+//  Created by Trung on 12/2/16.
 //  Copyright (c) 2016 Huỳnh Thanh Tuấn. All rights reserved.
 //
 
